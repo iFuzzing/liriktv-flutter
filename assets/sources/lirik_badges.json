@@ -1,0 +1,502 @@
+{
+    "badge_sets":{
+       "bits":{
+          "versions":{
+             "1000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/c602bc91-d4ae-4724-bbce-29ee9826027e/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/c602bc91-d4ae-4724-bbce-29ee9826027e/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/c602bc91-d4ae-4724-bbce-29ee9826027e/3",
+                "description":"cheer 1000",
+                "title":"cheer 1000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":"2019-12-12T22:06:08Z"
+             },
+             "10000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/b4bf51f1-3b63-4ddc-9bbd-87b990e378b1/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/b4bf51f1-3b63-4ddc-9bbd-87b990e378b1/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/b4bf51f1-3b63-4ddc-9bbd-87b990e378b1/3",
+                "description":"cheer 10000",
+                "title":"cheer 10000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":"2019-12-12T22:07:28Z"
+             },
+             "100000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/cab4c0e9-7299-4e7c-9515-5682cd8d757c/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/cab4c0e9-7299-4e7c-9515-5682cd8d757c/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/cab4c0e9-7299-4e7c-9515-5682cd8d757c/3",
+                "description":"cheer 100000",
+                "title":"cheer 100000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":null
+             },
+             "1000000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/c7e0d906-220f-4b26-9b53-76f6e8b8a84e/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/c7e0d906-220f-4b26-9b53-76f6e8b8a84e/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/c7e0d906-220f-4b26-9b53-76f6e8b8a84e/3",
+                "description":"cheer 1000000",
+                "title":"cheer 1000000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":null
+             },
+             "200000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/37b62aa4-4b28-4c0d-af9a-e92e811e529f/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/37b62aa4-4b28-4c0d-af9a-e92e811e529f/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/37b62aa4-4b28-4c0d-af9a-e92e811e529f/3",
+                "description":"cheer 200000",
+                "title":"cheer 200000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":null
+             },
+             "25000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/922d4ea3-e50e-444a-88a5-2ad76ab63424/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/922d4ea3-e50e-444a-88a5-2ad76ab63424/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/922d4ea3-e50e-444a-88a5-2ad76ab63424/3",
+                "description":"cheer 25000",
+                "title":"cheer 25000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":null
+             },
+             "300000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/d26289a8-247d-40b9-9d80-694f06c8a027/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/d26289a8-247d-40b9-9d80-694f06c8a027/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/d26289a8-247d-40b9-9d80-694f06c8a027/3",
+                "description":"cheer 300000",
+                "title":"cheer 300000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":null
+             },
+             "400000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/66d7b289-4d93-444b-bada-51b3f619f36c/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/66d7b289-4d93-444b-bada-51b3f619f36c/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/66d7b289-4d93-444b-bada-51b3f619f36c/3",
+                "description":"cheer 400000",
+                "title":"cheer 400000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":null
+             },
+             "5000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/99b2b333-f612-4af2-a927-811080deb3f0/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/99b2b333-f612-4af2-a927-811080deb3f0/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/99b2b333-f612-4af2-a927-811080deb3f0/3",
+                "description":"cheer 5000",
+                "title":"cheer 5000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":"2019-12-12T22:05:25Z"
+             },
+             "50000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/569b37a1-0a43-4c21-987e-cb3084e02f5d/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/569b37a1-0a43-4c21-987e-cb3084e02f5d/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/569b37a1-0a43-4c21-987e-cb3084e02f5d/3",
+                "description":"cheer 50000",
+                "title":"cheer 50000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":null
+             },
+             "500000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/eada96b9-b2c1-4f0f-b7e5-b28d34689c5a/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/eada96b9-b2c1-4f0f-b7e5-b28d34689c5a/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/eada96b9-b2c1-4f0f-b7e5-b28d34689c5a/3",
+                "description":"cheer 500000",
+                "title":"cheer 500000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":null
+             },
+             "600000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/e3d66943-937e-49d6-8b1d-5417ce971169/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/e3d66943-937e-49d6-8b1d-5417ce971169/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/e3d66943-937e-49d6-8b1d-5417ce971169/3",
+                "description":"cheer 600000",
+                "title":"cheer 600000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":null
+             },
+             "700000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/87a2e57a-034a-4ef4-b2ea-9d50f1586390/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/87a2e57a-034a-4ef4-b2ea-9d50f1586390/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/87a2e57a-034a-4ef4-b2ea-9d50f1586390/3",
+                "description":"cheer 700000",
+                "title":"cheer 700000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":null
+             },
+             "75000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/08bdcbd0-4c0d-4dd5-a425-da240fe2cd5b/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/08bdcbd0-4c0d-4dd5-a425-da240fe2cd5b/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/08bdcbd0-4c0d-4dd5-a425-da240fe2cd5b/3",
+                "description":"cheer 75000",
+                "title":"cheer 75000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":null
+             },
+             "800000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/e35f7c4f-6a0c-4cf8-b9ca-9678328f820e/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/e35f7c4f-6a0c-4cf8-b9ca-9678328f820e/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/e35f7c4f-6a0c-4cf8-b9ca-9678328f820e/3",
+                "description":"cheer 800000",
+                "title":"cheer 800000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":null
+             },
+             "900000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/82cc1231-a3a5-4eeb-948d-36709cc4ae31/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/82cc1231-a3a5-4eeb-948d-36709cc4ae31/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/82cc1231-a3a5-4eeb-948d-36709cc4ae31/3",
+                "description":"cheer 900000",
+                "title":"cheer 900000",
+                "click_action":"visit_url",
+                "click_url":"https://blog.twitch.tv/introducing-cheering-celebrate-together-da62af41fac6",
+                "last_updated":null
+             }
+          }
+       },
+       "subscriber":{
+          "versions":{
+             "0":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/7a18c65e-c3ef-427b-9d63-c355263445ec/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/7a18c65e-c3ef-427b-9d63-c355263445ec/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/7a18c65e-c3ef-427b-9d63-c355263445ec/3",
+                "description":"Subscriber",
+                "title":"Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "12":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/33e1385f-e653-4bda-8005-acebe996cd69/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/33e1385f-e653-4bda-8005-acebe996cd69/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/33e1385f-e653-4bda-8005-acebe996cd69/3",
+                "description":"1-Year Subscriber",
+                "title":"1-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "2000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/7fe9391a-42b2-4cec-8730-7a87862d6e8e/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/7fe9391a-42b2-4cec-8730-7a87862d6e8e/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/7fe9391a-42b2-4cec-8730-7a87862d6e8e/3",
+                "description":"Subscriber",
+                "title":"Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "2003":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/e696420e-4291-4f9b-8d34-f2fe49f40dd8/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/e696420e-4291-4f9b-8d34-f2fe49f40dd8/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/e696420e-4291-4f9b-8d34-f2fe49f40dd8/3",
+                "description":"3-Month Subscriber",
+                "title":"3-Month Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "2006":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/37f7641d-fdf4-4604-8b74-70f82ae304c2/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/37f7641d-fdf4-4604-8b74-70f82ae304c2/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/37f7641d-fdf4-4604-8b74-70f82ae304c2/3",
+                "description":"6-Month Subscriber",
+                "title":"6-Month Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "2012":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/0350c6d1-9d6e-4c70-90c2-c21bb6d681ab/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/0350c6d1-9d6e-4c70-90c2-c21bb6d681ab/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/0350c6d1-9d6e-4c70-90c2-c21bb6d681ab/3",
+                "description":"1-Year Subscriber",
+                "title":"1-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "2024":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/ff8496ba-de69-4a02-aacf-5aded277d92a/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/ff8496ba-de69-4a02-aacf-5aded277d92a/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/ff8496ba-de69-4a02-aacf-5aded277d92a/3",
+                "description":"2-Year Subscriber",
+                "title":"2-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "2036":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/afc55b91-2307-469c-ac5a-476f15317a73/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/afc55b91-2307-469c-ac5a-476f15317a73/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/afc55b91-2307-469c-ac5a-476f15317a73/3",
+                "description":"3-Year Subscriber",
+                "title":"3-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "2048":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/79294110-778f-40a2-97a1-f3378145956d/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/79294110-778f-40a2-97a1-f3378145956d/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/79294110-778f-40a2-97a1-f3378145956d/3",
+                "description":"4-Year Subscriber",
+                "title":"4-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "2060":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/a4ba02d8-5654-4a30-bacb-7c00eb653f8e/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/a4ba02d8-5654-4a30-bacb-7c00eb653f8e/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/a4ba02d8-5654-4a30-bacb-7c00eb653f8e/3",
+                "description":"5-Year Subscriber",
+                "title":"5-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "2072":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/728b4532-0077-4e0f-8910-cfd15e4c9095/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/728b4532-0077-4e0f-8910-cfd15e4c9095/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/728b4532-0077-4e0f-8910-cfd15e4c9095/3",
+                "description":"6-Year Subscriber",
+                "title":"6-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "2084":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/bb7709ed-736e-4ece-a96b-0dad8a19088f/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/bb7709ed-736e-4ece-a96b-0dad8a19088f/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/bb7709ed-736e-4ece-a96b-0dad8a19088f/3",
+                "description":"7-Year Subscriber",
+                "title":"7-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "2096":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/2167a5be-cda2-4ce5-9e63-18e9abc8cc25/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/2167a5be-cda2-4ce5-9e63-18e9abc8cc25/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/2167a5be-cda2-4ce5-9e63-18e9abc8cc25/3",
+                "description":"8-Year Subscriber",
+                "title":"8-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "24":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/ddf543d9-a831-455c-942a-ea2de4f9a656/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/ddf543d9-a831-455c-942a-ea2de4f9a656/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/ddf543d9-a831-455c-942a-ea2de4f9a656/3",
+                "description":"2-Year Subscriber",
+                "title":"2-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "3":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/87447b95-d72e-496b-b726-f26602595a6b/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/87447b95-d72e-496b-b726-f26602595a6b/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/87447b95-d72e-496b-b726-f26602595a6b/3",
+                "description":"3-Month Subscriber",
+                "title":"3-Month Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "3000":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/299714da-578e-44a4-a2a3-24b54cf3b85f/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/299714da-578e-44a4-a2a3-24b54cf3b85f/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/299714da-578e-44a4-a2a3-24b54cf3b85f/3",
+                "description":"Subscriber",
+                "title":"Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "3003":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/6b94da1e-ea64-4a3e-b973-af63db54a920/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/6b94da1e-ea64-4a3e-b973-af63db54a920/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/6b94da1e-ea64-4a3e-b973-af63db54a920/3",
+                "description":"3-Month Subscriber",
+                "title":"3-Month Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "3006":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/4df0c888-feb1-4b89-ab32-ed7143a97a32/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/4df0c888-feb1-4b89-ab32-ed7143a97a32/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/4df0c888-feb1-4b89-ab32-ed7143a97a32/3",
+                "description":"6-Month Subscriber",
+                "title":"6-Month Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "3012":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/bd1acba4-8fb4-4cb9-827c-869df3caf81d/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/bd1acba4-8fb4-4cb9-827c-869df3caf81d/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/bd1acba4-8fb4-4cb9-827c-869df3caf81d/3",
+                "description":"1-Year Subscriber",
+                "title":"1-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "3024":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/47afe0ac-e69f-4dc2-8204-43c64559b5ea/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/47afe0ac-e69f-4dc2-8204-43c64559b5ea/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/47afe0ac-e69f-4dc2-8204-43c64559b5ea/3",
+                "description":"2-Year Subscriber",
+                "title":"2-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "3036":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/fd9c5a73-e177-4c9d-89cb-32002fc10bb5/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/fd9c5a73-e177-4c9d-89cb-32002fc10bb5/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/fd9c5a73-e177-4c9d-89cb-32002fc10bb5/3",
+                "description":"3-Year Subscriber",
+                "title":"3-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "3048":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/1ffd2682-cd3c-4696-9c91-c6ac23d782be/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/1ffd2682-cd3c-4696-9c91-c6ac23d782be/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/1ffd2682-cd3c-4696-9c91-c6ac23d782be/3",
+                "description":"4-Year Subscriber",
+                "title":"4-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "3060":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/adf5cb9a-4a8e-4d8c-bc65-770c7591e0d0/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/adf5cb9a-4a8e-4d8c-bc65-770c7591e0d0/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/adf5cb9a-4a8e-4d8c-bc65-770c7591e0d0/3",
+                "description":"5-Year Subscriber",
+                "title":"5-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "3072":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/d609dd36-a4d3-4f98-bd5f-fd942ca1e21b/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/d609dd36-a4d3-4f98-bd5f-fd942ca1e21b/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/d609dd36-a4d3-4f98-bd5f-fd942ca1e21b/3",
+                "description":"6-Year Subscriber",
+                "title":"6-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "3084":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/710f925b-bfb6-48f2-a46f-de93c9a597ef/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/710f925b-bfb6-48f2-a46f-de93c9a597ef/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/710f925b-bfb6-48f2-a46f-de93c9a597ef/3",
+                "description":"7-Year Subscriber",
+                "title":"7-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "3096":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/8a240449-7afe-450e-882a-bcabc961872f/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/8a240449-7afe-450e-882a-bcabc961872f/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/8a240449-7afe-450e-882a-bcabc961872f/3",
+                "description":"8-Year Subscriber",
+                "title":"8-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "36":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/21dda659-b8f3-41fd-ada3-29b092c67e00/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/21dda659-b8f3-41fd-ada3-29b092c67e00/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/21dda659-b8f3-41fd-ada3-29b092c67e00/3",
+                "description":"3-Year Subscriber",
+                "title":"3-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "48":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/8b233cd5-b918-4630-87a7-1d891f787cc6/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/8b233cd5-b918-4630-87a7-1d891f787cc6/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/8b233cd5-b918-4630-87a7-1d891f787cc6/3",
+                "description":"4-Year Subscriber",
+                "title":"4-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "6":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/83f6b09f-de60-41cc-b707-11f1f80b2846/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/83f6b09f-de60-41cc-b707-11f1f80b2846/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/83f6b09f-de60-41cc-b707-11f1f80b2846/3",
+                "description":"6-Month Subscriber",
+                "title":"6-Month Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "60":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/1e596737-9c8e-48b0-99b5-1e9a6290bb55/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/1e596737-9c8e-48b0-99b5-1e9a6290bb55/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/1e596737-9c8e-48b0-99b5-1e9a6290bb55/3",
+                "description":"5-Year Subscriber",
+                "title":"5-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "72":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/97cc8209-a9a6-4d4b-99e2-a104995514a5/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/97cc8209-a9a6-4d4b-99e2-a104995514a5/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/97cc8209-a9a6-4d4b-99e2-a104995514a5/3",
+                "description":"6-Year Subscriber",
+                "title":"6-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "84":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/1af99f9a-5697-48cb-b832-c0ab0ac0ac82/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/1af99f9a-5697-48cb-b832-c0ab0ac0ac82/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/1af99f9a-5697-48cb-b832-c0ab0ac0ac82/3",
+                "description":"7-Year Subscriber",
+                "title":"7-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             },
+             "96":{
+                "image_url_1x":"https://static-cdn.jtvnw.net/badges/v1/1002c8b7-8c57-490c-b478-44e5cd9bd87f/1",
+                "image_url_2x":"https://static-cdn.jtvnw.net/badges/v1/1002c8b7-8c57-490c-b478-44e5cd9bd87f/2",
+                "image_url_4x":"https://static-cdn.jtvnw.net/badges/v1/1002c8b7-8c57-490c-b478-44e5cd9bd87f/3",
+                "description":"8-Year Subscriber",
+                "title":"8-Year Subscriber",
+                "click_action":"subscribe_to_channel",
+                "click_url":"",
+                "last_updated":null
+             }
+          }
+       }
+    }
+ }
