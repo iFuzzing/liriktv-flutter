@@ -19,4 +19,4 @@ A ideia foi um sucesso e até hoje o site está de pé acumulando centenas de li
 
 > Infelizmente no momento o projeto está parado, existem outros projetos com maior prioridade, mas pretendo voltar com este no futuro.
 
-[!image](https://raw.githubusercontent.com/iFuzzing/liriktv-flutter/main/assets/imagens/LirikTV.png)
+![image](https://raw.githubusercontent.com/iFuzzing/liriktv-flutter/main/assets/imagens/LirikTV.png)
